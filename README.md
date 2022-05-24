@@ -1,6 +1,6 @@
 ### Hi there, I'm Nathan! 👋
 
-[![nathangalante's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![nathangalante's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathangalante)](https://github.com/nathangalante/github-readme-stats)
 
 - 🔭 I’m currently working on my portfolio and projects that I was given by Spiced Academy 
 - 🌱 I’m currently learning TypeScript
